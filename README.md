@@ -1,6 +1,6 @@
 # Reversible-Datahiding-in-Encrypted-Images
 
-This paper proposes a scheme of data hiding in encrypted images. 
+This paper proposes a scheme of data hiding in encrypted images. It's project done during 3rd year of my B.Tech program.
 
 In the encryption phase, the original data is encrypted into images by using the stream cypher. Then the additional data is embedded into the image by modifying a small portion of encrypted data. 
 
