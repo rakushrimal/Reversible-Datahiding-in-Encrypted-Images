@@ -1,5 +1,5 @@
 # Reversible-Datahiding-in-Encrypted-Images 
-#MatLab
+#Code implemented using MatLab
 
 This paper proposes a scheme of data hiding in encrypted images. It's project done during 3rd year of my B.Tech program.
 
